@@ -1,0 +1,182 @@
+/* fonts */
+@font-face {
+	font-family: 'slick';
+	src: url('../fonts/slick.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/slick.eot*/;
+	src: local('O'),
+	url('../fonts/slick.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/slick.woff*/ format('woff'),
+	url('../fonts/slick.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/slick.ttf*/ format('truetype'),
+	url('../fonts/slick.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/slick.svg*/ format('svg');
+	font-weight: normal;
+	font-style: normal;}
+
+@font-face {
+    font-family: 'glyphicons';
+    src: url('../fonts/glyphicons-halflings-regular.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/glyphicons-halflings-regular.eot*/;
+    src: local('O'),
+    url('../fonts/glyphicons-halflings-regular.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/glyphicons-halflings-regular.woff*/ format('woff'),
+    url('../fonts/glyphicons-halflings-regular.woff2')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/glyphicons-halflings-regular.woff2*/ format('woff2'),,
+    url('../fonts/glyphicons-halflings-regular.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/glyphicons-halflings-regular.ttf*/ format('truetype'),
+    url('../fonts/glyphicons-halflings-regular.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/glyphicons-halflings-regular.svg*/ format('svg');
+    font-weight: normal;
+    font-style: normal;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Black.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Black.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-Black.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Black.woff*/ format('woff'),
+    url('../fonts/MyriadPro-Black.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Black.otf*/ format('otf'),
+    url('../fonts/MyriadPro-Black.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Black.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-Black.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Black.svg*/ format('svg');
+    font-weight: 900;
+    font-style: normal;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-BlackIt.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BlackIt.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-BlackIt.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BlackIt.woff*/ format('woff'),
+    url('../fonts/MyriadPro-BlackIt.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BlackIt.otf*/ format('otf'),
+    url('../fonts/MyriadPro-BlackIt.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BlackIt.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-BlackIt.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BlackIt.svg*/ format('svg');
+    font-weight: 900;
+    font-style: italic;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Bold.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Bold.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-Bold.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Bold.woff*/ format('woff'),
+    url('../fonts/MyriadPro-Bold.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Bold.otf*/ format('otf'),
+    url('../fonts/MyriadPro-Bold.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Bold.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-Bold.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Bold.svg*/ format('svg');
+    font-weight: 700;
+    font-style: normal;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-BoldIt.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BoldIt.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-BoldIt.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BoldIt.woff*/ format('woff'),
+    url('../fonts/MyriadPro-BoldIt.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BoldIt.otf*/ format('otf'),
+    url('../fonts/MyriadPro-BoldIt.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BoldIt.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-BoldIt.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-BoldIt.svg*/ format('svg');
+    font-weight: 700;
+    font-style: italic;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-It.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-It.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-It.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-It.woff*/ format('woff'),
+    url('../fonts/MyriadPro-It.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-It.otf*/ format('otf'),
+    url('../fonts/MyriadPro-It.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-It.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-It.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-It.svg*/ format('svg');
+    font-weight: normal;
+    font-style: italic;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Light.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Light.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-Light.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Light.woff*/ format('woff'),
+    url('../fonts/MyriadPro-Light.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Light.otf*/ format('otf'),
+    url('../fonts/MyriadPro-Light.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Light.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-Light.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Light.svg*/ format('svg');
+    font-weight: 300;
+    font-style: normal;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-LightIt.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-LightIt.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-LightIt.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-LightIt.woff*/ format('woff'),
+    url('../fonts/MyriadPro-LightIt.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-LightIt.otf*/ format('otf'),
+    url('../fonts/MyriadPro-LightIt.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-LightIt.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-LightIt.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-LightIt.svg*/ format('svg');
+    font-weight: 300;
+    font-style: italic;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Regular.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Regular.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-Regular.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Regular.woff*/ format('woff'),
+    url('../fonts/MyriadPro-Regular.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Regular.otf*/ format('otf'),
+    url('../fonts/MyriadPro-Regular.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Regular.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-Regular.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Regular.svg*/ format('svg');
+    font-weight: normal;
+    font-style: normal;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-Semibold.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Semibold.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-Semibold.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Semibold.woff*/ format('woff'),
+    url('../fonts/MyriadPro-Semibold.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Semibold.otf*/ format('otf'),
+    url('../fonts/MyriadPro-Semibold.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Semibold.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-Semibold.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-Semibold.svg*/ format('svg');
+    font-weight: 600;
+    font-style: normal;}
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('../fonts/MyriadPro-SemiboldIt.eot')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-SemiboldIt.eot*/;
+    src: local('O'),
+    url('../fonts/MyriadPro-SemiboldIt.woff')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-SemiboldIt.woff*/ format('woff'),
+    url('../fonts/MyriadPro-SemiboldIt.otf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-SemiboldIt.otf*/ format('otf'),
+    url('../fonts/MyriadPro-SemiboldIt.ttf')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-SemiboldIt.ttf*/ format('truetype'),
+    url('../fonts/MyriadPro-SemiboldIt.svg')/*tpa=http://mazepa3.bronehost.com/wp-content/themes/mazepa/fonts/MyriadPro-SemiboldIt.svg*/ format('svg');
+    font-weight: 600;
+    font-style: italic;}
+    /* /fonts*/
+
+/* helping adds*/
+.clear{clear:both;font-size:1px;line-height:1px;height:0;overflow:hidden;}
+.cfix:after{content: '';display: block;height: 0;font-size: 1px;line-height: 1px;overflow: hidden;clear: both;}
+.juster{display:inline-block;width:100%;height:0;overflow:hidden;}
+.jfix:after{content: '';display: inline-block;width: 100%;height: 0;overflow: hidden;}
+.vfix{height:100%;width:0px;display:inline-block;vertical-align:middle;}
+.vfix-before:before{content: '';height: 100%;width: 0;display: inline-block;vertical-align: middle;}
+
+.zHiddenBlock{position:absolute;left:-99999em;top:-99999em;}
+/* /helping adds*/
+
+/* base styles*/
+*{box-sizing:border-box;-webkit-box-sizing:border-box;}
+html{height:100%}
+body{min-height:100%;width: 100%;font-family:'Roboto',sans-serif;font-size:12px;background:#fff;color:#3d3d3d;position:relative;}
+img{vertical-align:bottom;border:0;max-width:100%;}
+/* /base styles */
+
+
+/* base typo*/
+.ctext h1,.ctext h2,.ctext h3,.ctext h4,.ctext h5,.mainheading,.subheading,.thirdheading,.fourheading,.fiveheading{font-weight:normal;margin-bottom:1em;}
+a{color:#12c;border:0;}
+a:hover{color:#dd4b39;}
+p{margin:0;}
+.mainheading,.ctext h1{}
+.subheading,.ctext h2{}
+.thirdheading,.ctext h3{}
+.fourheading,.ctext h4{}
+.fiveheading,.ctext h5{}
+.ctext p{margin:0 0 10px 0;}
+.ctext ul{margin:10px 20px;}
+.ctext p:last-child,.ctext ul:last-child{margin-bottom:0;}
+.ctext table{border-collapse:collapse;}
+.ctext table tr td,.ctext table{border:1px solid;}
+/* /base typo*/
+
+
+/* wraps styling*/
+
+.mbox{max-width:1024px;min-width:320px;width: 100%;margin:0 auto;position:relative;z-index:1;}
+.mbox:after{content:"";clear:both;font-size:1px;line-height:1px;height:0;overflow:hidden;display:block;}
+
+/* /wraps styling*/
+
+
+/*Layout*/
+.main{}
+.main .sidebar_w{width:180px;float:left;}
+.main .sidebar{margin:0;}
+
+.main .content_w{float:left;width:820px;}
+.main .content{margin:0;}
+
+.footer_placeholder{height: 200px;}
+.footer{position:absolute;bottom:0;left:0;width:100%;z-index:2;overflow:hidden;color:#646464;}
+/*End Layout*/
+
+
+

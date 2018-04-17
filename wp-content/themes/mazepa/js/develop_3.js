@@ -1,0 +1,31 @@
+$(document).ready(function(){
+  if($(window).width()<768){
+        if($('.hot-slider.slick-initialized').length!=0){
+            $('.hot-slider').slick('unslick');
+        }
+        if($('.hot-slider.slick-initialized').length!=0){
+            $('.hot-slider').slick('unslick');
+        }
+    }
+    else{
+        if($('.hot-slider.slick-initialized').length==0){
+            $('.hot-slider').slick();
+        }
+    }
+});
+
+$(window).resize(function(){
+    if($(window).width()<768){
+        if($('.hot-slider.slick-initialized').length!=0){
+            $('.hot-slider').slick('unslick');
+        }
+        if($('.hot-slider.slick-initialized').length!=0){
+            $('.hot-slider').slick('unslick');
+        }
+    }
+    else{
+        if($('.hot-slider.slick-initialized').length==0){
+            $('.hot-slider').slick();
+        }
+    }
+});

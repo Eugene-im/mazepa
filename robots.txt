@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-content/plugins/
+Disallow: /cgi-bin
+Disallow: /wp-content/cache
+Disallow: /search/
+Disallow: /wp-content/themes/theme
+Disallow: /ppc/
